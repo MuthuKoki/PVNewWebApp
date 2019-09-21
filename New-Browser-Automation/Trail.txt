@@ -5,5 +5,3 @@ the git hub
 commit
 
 This sentence for undoing committed changes 
-This sentence for undoing committed changes -1
-
