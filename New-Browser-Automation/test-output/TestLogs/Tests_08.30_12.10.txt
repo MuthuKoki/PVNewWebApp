@@ -1,0 +1,11 @@
+Starting Webdriver settings
+Signing-IN
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> xpath: //*[@aria-label='History']]
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> xpath: //*[@mattooltip='Notifications']]
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> id: global-menu-elooseleaf]
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> id: global-menu-library]
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> xpath: //*[@aria-label='Thomson Reuters ProView']]
+Please provide valid locator name
+The element display on the page is   :[[ChromeDriver: chrome on XP (f011e52880d67a25c917d6b5e3d1eebd)] -> xpath: //*[@aria-label='Search']]
+Scenario : LibraryHeader_FunctionalValidation
+Starting Webdriver settings

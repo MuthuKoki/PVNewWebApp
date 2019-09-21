@@ -1,0 +1,12 @@
+/BaseClass/
+/DeliberatelyFailTestCase.feature
+/Framework/
+/LibraryHeader.feature
+/LibraryHeaderDemo.feature
+/Pages/
+/ReturnToLibrary.feature
+/SignInPage.feature
+/Test.feature
+/TestRunner/
+/Titleheader.feature
+/stepDefinitions/

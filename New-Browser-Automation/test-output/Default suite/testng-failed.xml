@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="Framework.Helpers"/>
+      <class name="stepDefinitions.ReturnToLibrary"/>
+      <class name="stepDefinitions.Title_Header"/>
+      <class name="stepDefinitions.SignIn"/>
+      <class name="TestRunner.TestRunner"/>
+      <class name="stepDefinitions.Library_Header"/>
+      <class name="Framework.Driver"/>
+      <class name="Pages.WebPages"/>
+      <class name="stepDefinitions.Test"/>
+      <class name="Framework.UtilityHelper"/>
+      <class name="BaseClass.BaseTest"/>
+      <class name="Framework.Loggers"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestRunner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="0"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- TestRunner.TestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

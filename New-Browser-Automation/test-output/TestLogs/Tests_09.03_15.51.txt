@@ -1,0 +1,60 @@
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: History
+The tool top message display is: Notifications
+The tool top message display is: Account settings and sign out
+The tool top message display is: Thomson Reuters ProView
+Scenario : LibraryHeader_FunctionalValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_SkipNavigationWith_TabKeys
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_ThomsonreutersLogo_FunctionValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_AccountMenu_FunctionalValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_historyMenu_NotificationPanel_FunctionValidation
+Starting Webdriver settings
+Signing-IN
+Expected Language length: 8
+Actual Language length: 8
+Scenario : LibraryHeader_AccountMenu_LocalizationForSupportedlanguage
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_KeyboardNavigationValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_SkipNavigationWith_TabKeys
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: Return to library
+Scenario : ReturnToLibraryFunctionalAndNavigationValidation
+Starting Webdriver settings
+Browser Launched with proview URL
+Scenario : SignIn_ProView_OnePass_Sign_In_page_object_validation
+Starting Webdriver settings
+Browser Launched with proview URL
+Scenario : SignIn_using_blank_username_and_password
+Starting Webdriver settings
+Browser Launched with proview URL
+Scenario : SignIn_error_message_Validation
+Starting Webdriver settings
+Browser Launched with proview URL
+Scenario : SignIn_verify_once_logged_in_Clicking_back_button_doesnot_logout_the_user
+Starting Webdriver settings
+Browser Launched with proview URL
+Scenario : SignIn_Forgot_UserName_PasswordLinkValidation
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: Return to library
+The tool top message display is: Open table of contents
+The tool top message display is: View annotations
+The tool top message display is: Download Title
+The tool top message display is: Create Link
+The tool top message display is: Open Recent Activity
+The tool top message display is: Open Settings Menu
+The tool top message display is: Open search
+Scenario : TitleheaderFunctionalAndNavigationValidation

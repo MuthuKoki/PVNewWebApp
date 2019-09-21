@@ -1,0 +1,9 @@
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> name: Username]
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> name: Password]
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> xpath: //*[@id='form0']/div/ul[2]/li[2]/div[1]/div/div/span/label]
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> name: SignIn]
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> link text: Forgot username?]
+The element display on the page is   :[[ChromeDriver: chrome on XP (0a5817dcfde387cdd54dc2b8cf3660da)] -> link text: Forgot username?]
+Scenario failed : SignIn_ProView_OnePass_Sign_In_page_object_validation

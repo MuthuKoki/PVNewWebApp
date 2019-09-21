@@ -1,0 +1,45 @@
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: Username]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: Password]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: //*[@id='form0']/div/ul[2]/li[2]/div[1]/div/div/span/label]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: SignIn]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Forgot username?]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Forgot password?]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: //*[@for='SaveUsername']]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: //*[@for='SaveUsernamePassword']]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Add registration key]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: //*[@for='SuperRememberMe']]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Update OnePass profile]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Create OnePass profile]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: ProView Technical Support by Country]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Privacy]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> link text: Terms and Conditions]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: Username]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: Password]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> name: SignIn]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: *//app-cookie-policy/div/div/div/div/button]
+The element display on the page is   :[[ChromeDriver: chrome on XP (487981c9285e43b7bcfe2858fbaf83cc)] -> xpath: //*[@aria-label='Account settings and sign out']]
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (dde86df7247a6f1f516ca4d9e6598f9c)] -> name: SignIn]
+Scenario failed : SignIn_using_blank_username_and_password
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (9e64cba0b1165cd21552b9d492414963)] -> name: Username]
+The element display on the page is   :[[ChromeDriver: chrome on XP (9e64cba0b1165cd21552b9d492414963)] -> name: Password]
+The element display on the page is   :[[ChromeDriver: chrome on XP (9e64cba0b1165cd21552b9d492414963)] -> name: SignIn]
+Scenario failed : SignIn_error_message_Validation
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (201bcb0338a9c9f25d9edcf9eb0ac5e1)] -> name: Username]
+The element display on the page is   :[[ChromeDriver: chrome on XP (201bcb0338a9c9f25d9edcf9eb0ac5e1)] -> name: Password]
+The element display on the page is   :[[ChromeDriver: chrome on XP (201bcb0338a9c9f25d9edcf9eb0ac5e1)] -> name: SignIn]
+The element display on the page is   :[[ChromeDriver: chrome on XP (201bcb0338a9c9f25d9edcf9eb0ac5e1)] -> xpath: *//app-cookie-policy/div/div/div/div/button]
+The element display on the page is   :[[ChromeDriver: chrome on XP (201bcb0338a9c9f25d9edcf9eb0ac5e1)] -> xpath: //*[@aria-label='Thomson Reuters ProView'][1]]
+Starting Webdriver settings
+Browser Launched with proview URL
+The element display on the page is   :[[ChromeDriver: chrome on XP (2acf6bb60b0f7453d61a0fc060e94a9e)] -> link text: Forgot username?]
+The element display on the page is   :[[ChromeDriver: chrome on XP (2acf6bb60b0f7453d61a0fc060e94a9e)] -> name: EmailAddress]
+The element display on the page is   :[[ChromeDriver: chrome on XP (2acf6bb60b0f7453d61a0fc060e94a9e)] -> link text: Forgot password?]
+The element display on the page is   :[[ChromeDriver: chrome on XP (2acf6bb60b0f7453d61a0fc060e94a9e)] -> name: EmailAddress]

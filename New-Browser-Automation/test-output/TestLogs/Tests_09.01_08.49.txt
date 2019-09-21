@@ -1,0 +1,12 @@
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: Return to library
+The tool top message display is: Open table of contents
+The tool top message display is: View annotations
+The tool top message display is: Download Title
+The tool top message display is: Create Link
+The tool top message display is: Open Recent Activity
+The tool top message display is: Open Settings Menu
+The tool top message display is: Open search
+The tool top message display is: Return to library
+Scenario : TitleheaderFunctionalAndNavigationValidation

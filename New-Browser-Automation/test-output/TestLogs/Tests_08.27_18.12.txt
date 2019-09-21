@@ -1,0 +1,15 @@
+Starting Webdriver settings
+Signing-IN
+Scenario failed : LibraryHeader_FunctionalValidation
+Starting Webdriver settings
+Signing-IN
+Starting Webdriver settings
+Scenario failed : LibraryHeader_ThomsonreutersLogo_FunctionValidation
+Starting Webdriver settings
+Scenario failed : LibraryHeader_AccountMenu_FunctionalValidation
+Starting Webdriver settings
+Scenario failed : LibraryHeader_historyMenu_NotificationPanel_FunctionValidation
+Starting Webdriver settings
+Scenario failed : LibraryHeader_KeyboardNavigationValidation
+Starting Webdriver settings
+Scenario failed : LibraryHeader_AccountMenu_LocalizationForSupportedlanguage

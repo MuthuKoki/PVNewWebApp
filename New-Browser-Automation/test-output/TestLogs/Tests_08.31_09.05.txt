@@ -1,0 +1,30 @@
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: History
+The tool top message display is: Notifications
+The tool top message display is: Account settings and sign out
+The tool top message display is: Thomson Reuters ProView
+Scenario : LibraryHeader_FunctionalValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_SkipNavigationWith_TabKeys
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_ThomsonreutersLogo_FunctionValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_AccountMenu_FunctionalValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_historyMenu_NotificationPanel_FunctionValidation
+Starting Webdriver settings
+Signing-IN
+Expected Language length: 8
+Actual Language length: 8
+Scenario : LibraryHeader_AccountMenu_LocalizationForSupportedlanguage
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_KeyboardNavigationValidation
+Starting Webdriver settings
+Signing-IN
+Scenario : LibraryHeader_SkipNavigationWith_TabKeys

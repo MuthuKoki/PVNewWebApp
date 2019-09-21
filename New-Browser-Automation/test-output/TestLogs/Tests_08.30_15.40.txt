@@ -1,0 +1,7 @@
+Starting Webdriver settings
+Signing-IN
+The tool top message display is: History
+The tool top message display is: Notifications
+The tool top message display is: Account settings and sign out
+The tool top message display is: Thomson Reuters ProView
+Scenario : LibraryHeader_FunctionalValidation
