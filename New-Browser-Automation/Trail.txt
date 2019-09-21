@@ -3,3 +3,5 @@ file is
 for testing 
 the git hub 
 commit
+
+This sentence for undoing committed changes 
